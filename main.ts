@@ -1,3 +1,4 @@
+// I don't see a house.
 let mySprite = sprites.create(img`
 . . . . . . . . . . . . . . . . 
 . . . . . . . . . . . . . . . . 
